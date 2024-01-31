@@ -1,0 +1,46 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "produto": "Mario Bross",
+      "descricao": "Jogo para console Nitendo",
+      "foto": "jogo2.PNG",
+      "preco": 199.99
+    },
+    {
+      "id": 2,
+      "produto": "Controle X-BOX",
+      "descricao": "Controle para console X-BOX 360 (Imagem ilustrativa)",
+      "foto": "jogo3.PNG",
+      "preco": 250
+    },
+    {
+      "id": 3,
+      "produto": "Mouse pad Gamer",
+      "descricao": "Mouse pad Gamer (120 x 90)",
+      "foto": "jogo1.PNG",
+      "preco": 119.9
+    },
+    {
+      "id": 4,
+      "produto": "The Last Of Us - Parte II",
+      "descricao": "Jogo de PS 5",
+      "foto": "jogo4.PNG",
+      "preco": 300
+    },
+    {
+      "id": 5,
+      "produto": "Ragnarok",
+      "descricao": "Jogo de PS 4",
+      "foto": "jogo5.PNG",
+      "preco": 149.9
+    },
+    {
+      "id": 6,
+      "produto": "Castle of Illusion - Lançamento",
+      "descricao": "Jogo Infantil de PS3",
+      "foto": "jogo6.PNG",
+      "preco": 249.9
+    }
+  ]
+}
